@@ -1,2 +1,2 @@
 # Testrepo
-This is test repository
+Selenium automation scritps will be made here for browser automation.
